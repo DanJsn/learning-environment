@@ -1,0 +1,36 @@
+html {
+  color: black;
+  background-image: radial-gradient(white, #c8d0f7);
+  margin: 0;
+  padding: 0;
+  font-family: avenir;
+}
+
+blockquote {
+  text-align: center;
+  height: 90%;
+  }
+
+.titre {
+font-style: italic;
+border-width: 2px;
+border-style: solid;
+border-color: black;
+display: inline;
+}
+
+.soustitre {
+  font-style: oblique;
+}
+
+.logo {
+  margin-left: 25%;
+}
+
+.text {
+  font-size: 20px
+  display: block;
+  margin-left: 20px;
+
+
+}
